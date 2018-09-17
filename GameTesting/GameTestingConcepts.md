@@ -3,11 +3,11 @@
 I believe the two skills that are important for game testers are patience and dedication. 
 
 I believe the hardest things about being a game tester is how tedious all of the tasks are. You are not able to 
-know what it going to make the game glitch or behave the way it does. By putting a new item or a piece of new 
-coding in that item, you could break it. I also thought that the continuous playing of a level was difficult 
-because once you add something you test it and everyone will have a specific task to do everyday even after the 
-game is complete. So, you have to not only be dedicated for the game, but also have dedication with patience 
-for your team. 
+know what is going to make the game glitch or behave the way it does. By putting a new item or a piece of new 
+coding in that item, you could break it and have to start all over. I also thought that the continuous playing of 
+a level was difficult because once you add something you test it and everyone will have a specific task to do 
+everyday even after the game is complete. So, you have to not only be dedicated for the game, but also have 
+dedication with patience for your team. 
 
 Even though there are some difficult tasks about game testing, I still like the whole concept of usability and
 playtesting. The reason being is there are so many different ways people play games and sometimes you have to 
