@@ -12,8 +12,9 @@ need to be tested in different environment settings: close or far distances and 
 
 
 Other functions that should be tested are the hand movements of the character like grabbing items and putting 
-items back on the utility belt. When grabbing an object, the object will shake and fall on its own. When grabbing
-items in the utility belt, the forensic analyzer and grapnel gun sometimes will stop working 
+items back on the utility belt. There were times when the characters hands would spin in circles when standing 
+completely still. When grabbing an object, the object will shake even though hand is steady and fall on 
+its own. When grabbing items in the utility belt, the forensic analyzer and grapnel gun sometimes will stop working 
 when standing completely still. Putting the items back on your utility belt should also be tested. Items sometimes will 
 not go back to the designated highlighted area. This occurs with both sitting and standing. 
 
