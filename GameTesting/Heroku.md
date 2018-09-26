@@ -2,7 +2,7 @@ Research and review the various ways you could use Heroku to implement a CI solu
 Describe where the various technologies Heroku has to offer fit into each of the testing environments. 
 Document a possible approach on how to use it for your next "online game project".
 
-Heroku can automatically run your apps,test, deploy and deliver code. When integrated with Heroku 
+Heroku can automatically run your apps, test, deploy, and deliver code. When integrated with Heroku 
 Pipeline, Heroku CI lets you easily manage continuous integrations and continuous delivery
 automation across multiple apps and environments. 
 
@@ -20,3 +20,4 @@ before the final release.
 
 In conclusion, Heroku would be perfect for developing an online game project because it helps 
 ship code quickly and confidently. Its third party add-ons enhance functionality for devolpment. 
+Because the 
