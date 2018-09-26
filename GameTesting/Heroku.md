@@ -12,9 +12,9 @@ testing can begin with testing new features and fixes.
 Finally for the staging and production environment, they are handled once you set up a staging
 and production application. You can help prevent bugs in your code from being deployed to the production 
 environment by maintaining these separate environments as different Heroku apps under a main
-branch. Heroku Chatops provides a way for you or your team to ensure you are launching code that has passed.
-Heroku also has a release phase that lets you run certaintask before the final release and then provides 
-a way to publish your work. 
+branch. Heroku Chatops provides a way for you or your team to ensure you are launching code that has passed by
+communicating.Heroku also has a release phase that lets you run certaintask before the final release and 
+then provides a way to publish your work. 
 
 In conclusion, Heroku would be perfect for developing an online game project because it helps 
 ship code quickly and confidently with easy organization. Its third party add-ons enhance 
