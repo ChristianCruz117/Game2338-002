@@ -3,7 +3,7 @@ Describe where the various technologies Heroku has to offer fit into each of the
 Document a possible approach on how to use it for your next "online game project".
 
 Heroku can automatically run your apps, test, deploy, and deliver code. When integrated with Heroku 
-Pipeline, Heroku CI lets you easily manage continuous integrations and continuous delivery
+Pipeline, Heroku CI lets you easily manage continuous integration and continuous delivery
 automation across multiple apps and environments. 
 
 During the development environment, developers will write code and unit test. Heroku helps with this
@@ -21,6 +21,7 @@ before the final release and then provides a way to publish your work.
 In conclusion, Heroku would be perfect for developing an online game project because it helps 
 ship code quickly and confidently with easy organization. Its third party add-ons enhance 
 functionality for devolpment. Heroku also has shareable content so that the builds and test 
-results appear in a permanent URL that can be easily shared for team collaboration like in 
-Heroku Chatops. This would be beneficial for a team to know where everything is and your project
+results appear in a permanent URL that can be easily shared for team collaboration. Another
+feature is that you can choose to collaborate with other developers. This would be beneficial 
+for a team developing an online game to know where everything is and your project
 would be available in case changes need to be performed. 
