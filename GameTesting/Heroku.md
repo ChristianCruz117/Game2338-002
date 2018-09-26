@@ -3,8 +3,8 @@ Describe where the various technologies Heroku has to offer fit into each of the
 Document a possible approach on how to use it for your next "online game project".
 
 testing environments
-development 
-qa
-staging / piloting 
-production
+- development 
+- qa
+- staging / piloting 
+- production
 
