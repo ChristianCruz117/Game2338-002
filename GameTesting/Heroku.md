@@ -9,7 +9,7 @@ teams save hours by providing a log of errors found over time before transferrin
 After code has been successfully tested and processed to the QA environment, smoke and regression 
 testing can begin with testing new features and fixes. 
 
-Finally for the staging and production environment, they are handled once you setup a staging
+Finally for the staging and production environment, they are handled once you set up a staging
 and production application. You can help prevent bugs in your code from being deployed to the production 
 environment by maintaining these separate environments as different Heroku apps under a main
 branch. Heroku also has a release phase that lets you run certain task before the final 
