@@ -1,7 +1,3 @@
-Research and review the various ways you could use Heroku to implement a CI solution. 
-Describe where the various technologies Heroku has to offer fit into each of the testing environments. 
-Document a possible approach on how to use it for your next "online game project".
-
 Heroku can automatically run your apps, test, deploy, and deliver code. When integrated with Heroku 
 Pipeline, Heroku CI lets you easily manage continuous integration and continuous delivery
 automation across multiple apps and environments. 
