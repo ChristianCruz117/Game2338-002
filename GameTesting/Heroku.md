@@ -13,10 +13,10 @@ teams save hours.
 After code has been successfully tested and processed to the QA environment, smoke and regression 
 testing can begin with testing new features and fixes. 
 
-For the staging and environment
+Staging and piloting can begin after code has been validated through QA. 
 
 Finally for the production environment, Heroku has a release phase that lets you run certain tasks
 before the final release. 
 
 In conclusion, Heroku would be perfect for developing an online game project because it helps 
-ship code quickly and confidently. Its third party add-ons enhance functionality
+ship code quickly and confidently. Its third party add-ons enhance functionality for devolpment. 
