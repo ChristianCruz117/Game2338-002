@@ -15,5 +15,8 @@ testing can begin with testing new features and fixes.
 
 For the staging and environment
 
-Finally for the production environment, heroku has a release phase that lets you run certain tasks
+Finally for the production environment, Heroku has a release phase that lets you run certain tasks
 before the final release. 
+
+In conclusion, Heroku would be perfect for developing an online game project because it helps 
+ship code quickly and confidently. Its third party add-ons enhance functionality
