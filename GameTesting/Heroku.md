@@ -16,9 +16,11 @@ testing can begin with testing new features and fixes.
 Staging and piloting can begin after code has been processed through QA. 
 
 Finally for the production environment, Heroku has a release phase that lets you run certain tasks
-before the final release. 
+before the final release and then provides a way to publish your work. 
 
 In conclusion, Heroku would be perfect for developing an online game project because it helps 
 ship code quickly and confidently. Its third party add-ons enhance functionality for devolpment. 
 Heroku also has shareable content so that the builds and test results appear in a permanent URL 
-that can be easily shared within your team.
+that can be easily shared for team collaboration in Heroku Chatops. This would be beneficial for a 
+team to know where everything is and your project would be available in case changes need to be 
+performed. 
