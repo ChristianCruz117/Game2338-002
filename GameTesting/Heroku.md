@@ -10,8 +10,10 @@ During the development environment, developers will write code and unit test. He
 process by automatically testing code. This process helps when new code is created and helps 
 teams save hours. 
 
-In the QA environment
+After code has been successfully tested and processed to the QA environment, smoke and regression 
+testing can begin with testing new features and fixes. 
 
 For the staging and environment
 
-For the production environment
+Finally for the production environment, heroku has a release phase that lets you run certain tasks
+before the final release. 
