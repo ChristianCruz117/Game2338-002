@@ -10,3 +10,9 @@ on the brink of collapse, he must become and join the brotherhood of assassins t
 As an assassin, he will fight without being seen, hunt with the help of his hawk in the shadows, challenge the gods and change the course 
 of history.
 # Final Thoughts
+Ubisoft has yet again introduced me to another Assassin's Creed game that is captivating and amazing to play. The visuals are stunning and 
+that is a lot to say about vasts lands of desert. This time you were able to use not only eagle vision but hawk vision. The introduction 
+to the hawk, Senu, was perfect because roaming around a map for hours repeatedly can be repetitive and sometimes tiresome. The game 
+controls are definitely different from the last couple of games which I was somewhat thrown off by. The signature hidden blades are not 
+introduced right away either. However, you become acustomed to that with the enemies they immediately throw at you and the missions you 
+are able to play.
