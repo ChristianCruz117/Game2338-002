@@ -11,7 +11,7 @@ As an assassin, he will fight without being seen, hunt with the help of his hawk
 of history.
 # Final Thoughts
 Ubisoft has yet again introduced me to another Assassin's Creed game that is captivating and amazing to play. The visuals are stunning and 
-that is a lot to say about vasts lands of desert. This time you were able to use not only eagle vision but hawk vision. The introduction 
+that is a lot to say about vast lands of desert. This time you were able to use not only eagle vision but hawk vision. The introduction 
 to the hawk, Senu, was perfect because roaming around a map for hours repeatedly can be repetitive and sometimes tiresome. Now, you can 
 hunt for resources like weapons and clothing a different way instead of constantly pushing eagle vision. The game controls are definitely 
 different from the last couple of games which I was somewhat thrown off by. The signature hidden blades are not introduced right away 
