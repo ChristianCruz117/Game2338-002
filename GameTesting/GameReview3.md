@@ -19,5 +19,5 @@ either. However, you become acustomed to that with the enemies they immediately 
 Gameplay is also different in some aspects. Collecting loot is more immediate which is different from waiting around while holding a 
 button. The way the character Bayek climbs was also interesting because it was more fluid. For example, when you let the character climb 
 a mountain I did not find the character getting stuck to be pushed in a different direction to climb a certain way. Being stealthy is
-still the somewhat the same like hiding in tall grass and climbing to evade enemies. One move I found interesting was that Bayek can now 
+still somewhat the same like hiding in tall grass and climbing to evade enemies. One move I found interesting was that, Bayek can now 
 jump off a ledge and shoot someone with his arrow in a slow cinematic way. 
