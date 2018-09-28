@@ -12,7 +12,12 @@ of history.
 # Final Thoughts
 Ubisoft has yet again introduced me to another Assassin's Creed game that is captivating and amazing to play. The visuals are stunning and 
 that is a lot to say about vasts lands of desert. This time you were able to use not only eagle vision but hawk vision. The introduction 
-to the hawk, Senu, was perfect because roaming around a map for hours repeatedly can be repetitive and sometimes tiresome. The game 
-controls are definitely different from the last couple of games which I was somewhat thrown off by. The signature hidden blades are not 
-introduced right away either. However, you become acustomed to that with the enemies they immediately throw at you and the missions you 
-are able to play.
+to the hawk, Senu, was perfect because roaming around a map for hours repeatedly can be repetitive and sometimes tiresome. Now, you can 
+hunt for resources like weapons and clothing a different way instead of constantly pushing eagle vision. The game controls are definitely 
+different from the last couple of games which I was somewhat thrown off by. The signature hidden blades are not introduced right away 
+either. However, you become acustomed to that with the enemies they immediately throw at you and the missions you are able to play. 
+Gameplay is also different in some aspects. Collecting loot is more immediate which is different from waiting around while holding a 
+button. The way the character Bayek climbs was also interesting because it was more fluid. For example, when you let the character climb 
+a mountain I did not find the character getting stuck to be pushed in a different direction to climb a certain way. Being stealthy is
+still the somewhat the same like hiding in tall grass and climbing to evade enemies. One move I found interesting was that Bayek can now 
+jump off a ledge and shoot someone with his arrow in a slow cinematic way. 
