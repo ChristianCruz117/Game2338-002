@@ -15,7 +15,7 @@ that is a lot to say about vast lands of desert. This time you were able to use 
 to the hawk, Senu, was perfect because roaming around a map for hours repeatedly can be repetitive and sometimes tiresome. Now, you can 
 hunt for resources like weapons and clothing a different way instead of constantly pushing eagle vision. The game controls are definitely 
 different from the last couple of games which I was somewhat thrown off by. The signature hidden blades are not introduced right away 
-either. However, you become acustomed to that with the enemies they immediately throw at you and the missions you are able to play. 
+either. However, you become accustomed to that with the enemies they immediately throw at you and the missions you can play. 
 Gameplay is also different in some aspects. Collecting loot is more immediate which is different from waiting around while holding a 
 button. The way the character Bayek climbs was also interesting because it was more fluid. For example, when you let the character climb 
 a mountain I did not find the character getting stuck to be pushed in a different direction to climb a certain way. Being stealthy is
