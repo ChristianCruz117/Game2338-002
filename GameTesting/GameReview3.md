@@ -20,4 +20,6 @@ Gameplay is also different in some aspects. Collecting loot is more immediate wh
 button. The way the character Bayek climbs was also interesting because it was more fluid. For example, when you let the character climb 
 a mountain I did not find the character getting stuck to be pushed in a different direction to climb a certain way. Being stealthy is
 still somewhat the same like hiding in tall grass and climbing to evade enemies. One move I found interesting was that, Bayek can now 
-jump off a ledge and shoot someone with his arrow in a slow cinematic way. 
+jump off a ledge and shoot someone with his arrow in a slow cinematic way. Due to how many Assassin's Creed games there are, I believe the 
+whole way the game is designed is meant to be different so the player can be introduced to something entirely new, and  because of that
+I cannot wait to play Odyssey to see what more Assassin's Creed has to offer. 
