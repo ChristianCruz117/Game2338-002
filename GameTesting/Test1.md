@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * #REQ 1
+  * #One
 * Test Case Name:
   * #Number 1 
 * Component: 
@@ -25,7 +25,7 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 | Does the game start when the game is turned on?| Yes | (√) |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
