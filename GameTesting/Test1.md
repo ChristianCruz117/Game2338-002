@@ -1,5 +1,5 @@
 # Test Case 
-
+Hi
 ## Test Details
 
 * Test Case ID:
@@ -26,10 +26,10 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | Does it start when it is turned on?| Yes | (√) |			
+| 1 | | | |			
 | 2 | | | |			
-| 3 | Does it initialize all other drivers?| Yes | (√) |			
-| 4 | Does it handle all user input? |Yes |(√) |			
+| 3 | | | |			
+| 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
