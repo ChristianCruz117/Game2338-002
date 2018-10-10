@@ -26,7 +26,7 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 | Does it start when it is turned on?| Yes | (√) |			
 | 2 | | | |			
 | 3 | Does it initialize all other drivers?| Yes | (√) |			
 | 4 | | | |			
