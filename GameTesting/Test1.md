@@ -27,7 +27,7 @@
 | --- | --- | --- | --- |
 | 1 | Does the game start when the game is turned on?| Yes | (√) |			
 | 2 | | | |			
-| 3 | | | |			
+| 3 | Does it initialize all other drivers?| Yes | (√) |			
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
