@@ -29,7 +29,7 @@
 | 1 | Does it start when it is turned on?| Yes | (√) |			
 | 2 | | | |			
 | 3 | Does it initialize all other drivers?| Yes | (√) |			
-| 4 | | | |			
+| 4 | Does it handle all user input? |Yes |(√) |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
