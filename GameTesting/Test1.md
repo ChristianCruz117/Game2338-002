@@ -1,6 +1,4 @@
 # Test Case 
-hihi
-this is bull
 
 ## Test Details
 
@@ -9,7 +7,7 @@ this is bull
 * Test Case Name:
   * #Number 1 
 * Component: 
-  * Description
+  * This is a test case for PLEX
 * Test Case Designer:
   * Rachel Torres
 * Creation Date:
