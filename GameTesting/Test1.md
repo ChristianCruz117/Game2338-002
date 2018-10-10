@@ -5,13 +5,13 @@
 * Test Case ID:
   * #Number
 * Test Case Name:
-  * #Number
+  * #Number 1 
 * Component: 
   * Description
 * Test Case Designer:
-  * Name
+  * Rachel Torres
 * Creation Date:
-  * Date
+  * Date : 10/09/2018
 * Modified By:
   * Name
 * Modified Date:
